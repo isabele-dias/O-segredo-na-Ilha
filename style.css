@@ -1,0 +1,36 @@
+body
+{
+	background-color:#407d6d;
+}
+
+h1,h2,h3
+{
+font-family:Arial Narrow;
+}
+
+p
+{
+font-size:20px;
+color:#030001;
+}
+
+section
+{
+	background-color:#83B6B9;
+	font-family:;
+}
+
+footer
+{
+	background-color#83B6B9;
+	font-family:;
+	padding:8px;
+	color:#ffffff;
+	font-size:;
+	text-align:center;
+}
+
+img,video
+{
+max-width:100%
+}
